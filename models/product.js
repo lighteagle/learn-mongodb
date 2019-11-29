@@ -1,5 +1,4 @@
 var mongoose = require("mongoose");
-var Schema = mongoose.Schema;
 
 const ProductSchema = new Schema({
   name: String,
